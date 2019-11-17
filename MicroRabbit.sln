@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2005
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{E87F8266-1CCE-4855-A587-8A90CE2A5596}"
 EndProject
@@ -15,7 +15,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Domain.Core", "MicroRabbit.Domain.Core\MicroRabbit.Domain.Core.csproj", "{33643B35-2A24-41D0-BFFB-7250C2B14B28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Infra.Bus", "MicroRabbit.Infra.Bus\MicroRabbit.Infra.Bus.csproj", "{C56D33BE-58A7-4AF1-8F71-7739178E35C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicroRabbit.Infra.Bus", "MicroRabbit.Infra.Bus\MicroRabbit.Infra.Bus.csproj", "{C56D33BE-58A7-4AF1-8F71-7739178E35C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroRabbit.Infra.IcC", "MicroRabbit.Infra.IcC\MicroRabbit.Infra.IcC.csproj", "{59BED67A-F374-4197-80D3-6C4436071B96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{C56D33BE-58A7-4AF1-8F71-7739178E35C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C56D33BE-58A7-4AF1-8F71-7739178E35C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C56D33BE-58A7-4AF1-8F71-7739178E35C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59BED67A-F374-4197-80D3-6C4436071B96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BED67A-F374-4197-80D3-6C4436071B96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BED67A-F374-4197-80D3-6C4436071B96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BED67A-F374-4197-80D3-6C4436071B96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -38,6 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{33643B35-2A24-41D0-BFFB-7250C2B14B28} = {10D43902-3098-4F81-82BD-F45656A3E2A8}
 		{C56D33BE-58A7-4AF1-8F71-7739178E35C5} = {C1EC1950-349D-4F72-9DD1-1484037B1389}
+		{59BED67A-F374-4197-80D3-6C4436071B96} = {BDBDF270-43BD-4631-89E8-6FBEFC2598E9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91062CD8-45ED-4A9E-A603-286DC3301B33}

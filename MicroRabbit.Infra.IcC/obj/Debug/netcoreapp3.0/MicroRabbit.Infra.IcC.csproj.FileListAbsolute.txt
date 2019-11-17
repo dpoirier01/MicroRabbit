@@ -1,0 +1,8 @@
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\bin\Debug\netcoreapp3.0\MicroRabbit.Infra.IcC.deps.json
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\bin\Debug\netcoreapp3.0\MicroRabbit.Infra.IcC.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IcC.csprojAssemblyReference.cache
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IcC.AssemblyInfoInputs.cache
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IcC.AssemblyInfo.cs
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\bin\Debug\netcoreapp3.0\MicroRabbit.Infra.IcC.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IcC.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IcC.pdb

@@ -5,4 +5,3 @@ C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcorea
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.0\MicroRabbit.Domain.Core.AssemblyInfo.cs
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.0\MicroRabbit.Domain.Core.dll
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.0\MicroRabbit.Domain.Core.pdb
-C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp2.0\MicroRabbit.Domain.Core.csprojAssemblyReference.cache
