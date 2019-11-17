@@ -5,3 +5,9 @@ C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcore
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.0\MicroRabbit.Banking.Data.AssemblyInfo.cs
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.0\MicroRabbit.Banking.Data.dll
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.0\MicroRabbit.Banking.Data.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.0\MicroRabbit.Banking.Data.csprojAssemblyReference.cache
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.0\MicroRabbit.Banking.Data.runtimeconfig.json
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.0\MicroRabbit.Banking.Data.runtimeconfig.dev.json
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.0\MicroRabbit.Banking.Domain.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.0\MicroRabbit.Banking.Domain.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.0\MicroRabbit.Banking.Data.csproj.CopyComplete
