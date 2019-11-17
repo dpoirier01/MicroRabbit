@@ -1,0 +1,7 @@
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.0\MicroRabbit.Banking.Application.deps.json
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.0\MicroRabbit.Banking.Application.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.0\MicroRabbit.Banking.Application.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.0\MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.0\MicroRabbit.Banking.Application.AssemblyInfo.cs
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.0\MicroRabbit.Banking.Application.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.0\MicroRabbit.Banking.Application.pdb
