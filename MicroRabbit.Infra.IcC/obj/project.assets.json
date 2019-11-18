@@ -1254,7 +1254,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
-          "MicroRabbit.Banking.Domain": "1.0.0"
+          "MicroRabbit.Banking.Domain": "1.0.0",
+          "MicroRabbit.Domain.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/MicroRabbit.Banking.Application.dll": {}
@@ -1281,6 +1282,9 @@
       "MicroRabbit.Banking.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/MicroRabbit.Banking.Domain.dll": {}
         },
@@ -5010,6 +5014,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\dev\\Nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

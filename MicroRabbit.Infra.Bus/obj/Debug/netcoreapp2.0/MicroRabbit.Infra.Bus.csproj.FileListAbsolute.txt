@@ -1,11 +1,11 @@
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.0\MicroRabbit.Infra.Bus.deps.json
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.0\MicroRabbit.Infra.Bus.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.0\MicroRabbit.Infra.Bus.pdb
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.0\MicroRabbit.Domain.Core.dll
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.0\MicroRabbit.Domain.Core.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.0\MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.0\MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.0\MicroRabbit.Infra.Bus.AssemblyInfo.cs
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.0\MicroRabbit.Infra.Bus.csproj.CopyComplete
-C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\bin\Debug\netcoreapp2.0\MicroRabbit.Infra.Bus.pdb
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.0\MicroRabbit.Infra.Bus.dll
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.0\MicroRabbit.Infra.Bus.pdb
-C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.Bus\obj\Debug\netcoreapp2.0\MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
