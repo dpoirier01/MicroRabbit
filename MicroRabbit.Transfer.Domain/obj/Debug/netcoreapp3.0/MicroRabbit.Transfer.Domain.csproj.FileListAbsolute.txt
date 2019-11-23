@@ -1,0 +1,8 @@
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.deps.json
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Domain\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.csprojAssemblyReference.cache
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.AssemblyInfoInputs.cache
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.AssemblyInfo.cs
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Domain\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.pdb

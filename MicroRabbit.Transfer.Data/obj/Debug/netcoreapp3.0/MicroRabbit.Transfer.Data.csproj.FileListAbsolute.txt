@@ -1,0 +1,7 @@
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.deps.json
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Data\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.AssemblyInfoInputs.cache
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.AssemblyInfo.cs
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Data\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.pdb
