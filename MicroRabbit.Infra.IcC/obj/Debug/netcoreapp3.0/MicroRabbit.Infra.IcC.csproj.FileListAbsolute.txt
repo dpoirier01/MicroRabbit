@@ -17,3 +17,9 @@ C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\obj\Debug\netcoreapp
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IcC.csproj.CopyComplete
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IcC.dll
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\obj\Debug\netcoreapp3.0\MicroRabbit.Infra.IcC.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Application.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Application.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Infra.IcC\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.pdb

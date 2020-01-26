@@ -15,7 +15,6 @@ C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcorea
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
@@ -62,3 +61,9 @@ C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcorea
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.0\MicroRabbit.Banking.Api.csproj.CopyComplete
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.0\MicroRabbit.Banking.Api.dll
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.0\MicroRabbit.Banking.Api.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Application.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Application.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Data.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.pdb

@@ -5,3 +5,9 @@ C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Application.AssemblyInfo.cs
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Application.dll
 C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Application.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Application.csprojAssemblyReference.cache
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.dll
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp3.0\MicroRabbit.Domain.Core.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Application\bin\Debug\netcoreapp3.0\MicroRabbit.Transfer.Domain.pdb
+C:\dev\Udemy-net-core-rmq\MicroRabbit\MicroRabbit.Transfer.Application\obj\Debug\netcoreapp3.0\MicroRabbit.Transfer.Application.csproj.CopyComplete
